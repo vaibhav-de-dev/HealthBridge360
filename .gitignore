@@ -41,3 +41,6 @@ temp/
 
 # AWS credentials
 .aws/
+
+# Generated/local project data
+data/
